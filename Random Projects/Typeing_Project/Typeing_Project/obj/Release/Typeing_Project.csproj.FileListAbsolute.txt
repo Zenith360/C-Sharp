@@ -1,0 +1,6 @@
+C:\Users\james\Documents\Visual Studio 2015\Projects\Typeing_Project\Typeing_Project\bin\Release\Typeing_Project.exe.config
+C:\Users\james\Documents\Visual Studio 2015\Projects\Typeing_Project\Typeing_Project\bin\Release\Typeing_Project.exe
+C:\Users\james\Documents\Visual Studio 2015\Projects\Typeing_Project\Typeing_Project\bin\Release\Typeing_Project.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\Typeing_Project\Typeing_Project\obj\Release\Typeing_Project.exe
+C:\Users\james\Documents\Visual Studio 2015\Projects\Typeing_Project\Typeing_Project\obj\Release\Typeing_Project.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\Typeing_Project\Typeing_Project\obj\Release\Typeing_Project.csprojResolveAssemblyReference.cache

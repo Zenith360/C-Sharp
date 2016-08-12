@@ -1,0 +1,6 @@
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Apple Store\The Apple Store\bin\Debug\Test1.exe.config
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Apple Store\The Apple Store\obj\Debug\Test1.exe
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Apple Store\The Apple Store\obj\Debug\Test1.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Apple Store\The Apple Store\bin\Debug\Test1.exe
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Apple Store\The Apple Store\bin\Debug\Test1.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Apple Store\The Apple Store\obj\Debug\The Apple Store.csprojResolveAssemblyReference.cache

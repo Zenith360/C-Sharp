@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2015\Projects\The Fighting Game\The Fighting Game\bin\Debug\The Fighting Game.exe.config
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Fighting Game\The Fighting Game\bin\Debug\The Fighting Game.exe
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Fighting Game\The Fighting Game\bin\Debug\The Fighting Game.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Fighting Game\The Fighting Game\obj\Debug\The Fighting Game.csprojResolveAssemblyReference.cache
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Fighting Game\The Fighting Game\obj\Debug\The Fighting Game.exe
+C:\Users\james\Documents\Visual Studio 2015\Projects\The Fighting Game\The Fighting Game\obj\Debug\The Fighting Game.pdb

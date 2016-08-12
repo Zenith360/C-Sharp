@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2015\Projects\Typeing_Project\Typeing_Project\bin\Debug\Typeing_Project.exe.config
+c:\users\james\documents\visual studio 2015\Projects\Typeing_Project\Typeing_Project\obj\Debug\Typeing_Project.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\Typeing_Project\Typeing_Project\bin\Debug\Typeing_Project.exe
+c:\users\james\documents\visual studio 2015\Projects\Typeing_Project\Typeing_Project\bin\Debug\Typeing_Project.pdb
+c:\users\james\documents\visual studio 2015\Projects\Typeing_Project\Typeing_Project\obj\Debug\Typeing_Project.exe
+c:\users\james\documents\visual studio 2015\Projects\Typeing_Project\Typeing_Project\obj\Debug\Typeing_Project.pdb

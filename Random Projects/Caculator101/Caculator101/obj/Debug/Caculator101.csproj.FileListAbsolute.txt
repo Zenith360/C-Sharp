@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2015\Projects\Caculator101\Caculator101\bin\Debug\Caculator101.exe.config
+c:\users\james\documents\visual studio 2015\Projects\Caculator101\Caculator101\obj\Debug\Caculator101.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\Caculator101\Caculator101\bin\Debug\Caculator101.exe
+c:\users\james\documents\visual studio 2015\Projects\Caculator101\Caculator101\bin\Debug\Caculator101.pdb
+c:\users\james\documents\visual studio 2015\Projects\Caculator101\Caculator101\obj\Debug\Caculator101.exe
+c:\users\james\documents\visual studio 2015\Projects\Caculator101\Caculator101\obj\Debug\Caculator101.pdb
